@@ -1,0 +1,22 @@
+---
+title: "Wael Hadi Page"
+date: "`r Sys.Date()`"
+output:
+  rmdformats::readthedown:
+    highlight: kate
+---
+
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+# Main Page
+
+
+## Introduction
+This site is dedicate to all the tools for my PhD including Bioinformatics , R , Python and Latex.
+
+## About this page
+This is currently for tutorial purpose 
+
